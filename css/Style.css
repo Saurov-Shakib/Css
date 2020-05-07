@@ -1,0 +1,27 @@
+body{
+	background-color: darkblue;
+}
+h3{
+	color: blue;
+	background-color: lightgreen;
+}
+p{
+	color:blue; 
+	background-color: lightblue; 
+}
+
+.head1{color:orange;
+
+}
+.head2{
+	color: yellow;
+	background-color: black;
+}
+.head3{
+	color: lightgreen;
+	background-color:darkgreen;
+}
+#h1{
+	color:purple;
+	background-color: lightblue;
+}
